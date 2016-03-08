@@ -1,0 +1,5 @@
+Client: 					jre1.8.0_74
+Server compiler: 	jdk1.8.0_74
+
+JRE:						http://download.oracle.com/otn-pub/java/jdk/8u74-b02/jre-8u74-windows-x64.exe
+JDK:						http://download.oracle.com/otn-pub/java/jdk/8u74-b02/jdk-8u74-windows-x64.exe
